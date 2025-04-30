@@ -22,7 +22,7 @@ Certifique-se de ter instalado:
 ### 📌 Passos para instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SeuUsuario/flight-and-ticket-management.git
+git clone https://github.com/RafaelCantovitzBueno/flight-and-ticket-management.git
 cd flight-and-ticket-management
 ```
 2. Compile os programas:
